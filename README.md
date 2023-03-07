@@ -1,7 +1,7 @@
 # Jio-Institute
 The projects in this repository are in Post graduation course at Jio Institute.
 
-**Capstone project:** One of the notable projects in this repository is the capstone project, which utilises computer vision to identify and classify ingredients in a kitchen, and then calculated the health implications of consuming those ingredients. Additionally, the project aimsto automate the grocery ordering process based on the level of ingredient consumption using online platforms and pricing analysis. This project has the potential to be further developed into a start-up venture.
+**Capstone project:** One of the notable projects in this repository is the capstone project, which utilises deep learning to identify and classify ingredients in a kitchen, and then calculated the health implications of consuming those ingredients. Additionally, the project aimsto automate the grocery ordering process based on the level of ingredient consumption using online platforms and pricing analysis. This project has the potential to be further developed into a start-up venture.
 
 **Internship:**
 My learnings in the internship at Jio Platforms Limited (JPL) include:
